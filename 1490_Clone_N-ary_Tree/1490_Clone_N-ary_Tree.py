@@ -1,9 +1,7 @@
 """
 Question:
 Given a root of an N-ary tree, return a deep copy (clone) of the tree.
-
 Each node in the n-ary tree contains a val (int) and a list (List[Node]) of its children.
-
 class Node {
     public int val;
     public List<Node> children;
